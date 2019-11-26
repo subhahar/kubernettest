@@ -1,0 +1,6 @@
+com\example\mindtree\controller\UserController.class
+com\example\mindtree\service\UserService.class
+com\example\mindtree\Docker201Application.class
+com\example\mindtree\entity\User.class
+com\example\mindtree\beans\BeanCreation.class
+com\example\mindtree\repository\UserRepository.class
